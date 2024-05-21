@@ -1,4 +1,4 @@
-multRegData = read.table("dataset-path",header = TRUE,sep = " ")
+
 
 
 fmax <- function(data, na_rm = TRUE) {
